@@ -1,0 +1,15 @@
+"destination_ip","label","total_count"
+"192.168.10.50",DDoS,128024
+"172.16.0.1",DDoS,3
+"192.168.10.50",DoS GoldenEye,10293
+"192.168.10.50",DoS Slowhttptest,5499
+"192.168.10.50",FTP-Patator,15876
+"192.168.10.50",DoS slowloris,5796
+"192.168.10.50",PortScan,317860
+"192.168.10.50",SSH-Patator,11794
+"205.174.165.73",Infiltration,36
+"192.168.10.3",BENIGN,590658
+"192.168.10.1",BENIGN,253557
+"192.168.10.25",BENIGN,56132
+"192.168.10.50",DoS Hulk,231073
+"192.168.10.51",Heartbleed,11
