@@ -1,0 +1,5 @@
+pandas==1.5.3
+kafka-python==2.0.2
+cassandra-driver==3.25.0
+faker==15.0.0
+zlib
