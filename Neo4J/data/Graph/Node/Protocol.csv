@@ -1,0 +1,4 @@
+ Protocol,Protocol Name,Protocol Description,surrogate_key
+6,TCP,This is a connection-oriented protocol which ensures that the transmission or transfer of data between devices on the network takes place in a sequential manner and with controlled errors in a reliable way,1
+0,Reserved,"Some bits or fields in some network protocols - for example, the headers of IP packets-are set aside for future use or special purposes and shall not be altered during normal transmission",2
+17,UDP,"This protocol is connectionless and therefore does not guarantee delivery, but it's faster and less reliable than TCP; it always finds its application when time is of essence, such as video playing or online gaming.",3

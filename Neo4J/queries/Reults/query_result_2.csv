@@ -1,0 +1,12 @@
+﻿label,Source_IP,MaxCount
+BENIGN,192.168.10.8,999
+DoS slowloris,172.16.0.1,9
+DoS Hulk,172.16.0.1,9
+DDoS,172.16.0.1,8
+PortScan,172.16.0.1,8
+Infiltration,192.168.10.8,7
+FTP-Patator,172.16.0.1,6
+SSH-Patator,172.16.0.1,6
+DoS Slowhttptest,172.16.0.1,5
+DoS GoldenEye,172.16.0.1,3
+Heartbleed,172.16.0.1,11

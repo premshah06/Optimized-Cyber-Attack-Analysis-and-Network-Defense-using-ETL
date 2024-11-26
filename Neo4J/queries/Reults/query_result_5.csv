@@ -1,0 +1,16 @@
+﻿label,protocol,Attack_Count
+BENIGN,TCP,336016
+BENIGN,Reserved,336016
+BENIGN,UDP,336016
+DoS Hulk,TCP,57261
+DoS GoldenEye,TCP,5544
+FTP-Patator,TCP,626
+DDoS,TCP,430
+DoS Slowhttptest,TCP,206
+SSH-Patator,TCP,135
+DoS slowloris,TCP,90
+Infiltration,TCP,35
+PortScan,TCP,34
+PortScan,Reserved,34
+PortScan,UDP,34
+Heartbleed,TCP,11
