@@ -1,0 +1,12 @@
+"source_ip","source_port","label","max_count"
+"172.16.0.1","49749",DDoS,8
+"172.16.0.1","39626",DoS GoldenEye,3
+"172.16.0.1","39684",DoS Slowhttptest,5
+"172.16.0.1","52150",FTP-Patator,6
+"172.16.0.1","54292",DoS slowloris,9
+"172.16.0.1","59328",PortScan,2006
+"172.16.0.1","46728",SSH-Patator,6
+"192.168.10.8","1260",Infiltration,18
+"192.168.10.50","80",BENIGN,38292
+"172.16.0.1","47036",DoS Hulk,25
+"172.16.0.1","45022",Heartbleed,11
