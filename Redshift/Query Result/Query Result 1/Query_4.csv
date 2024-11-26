@@ -1,0 +1,30 @@
+"label","hour","total_count"
+BENIGN,3,382099
+BENIGN,2,362862
+BENIGN,4,287248
+PortScan,2,277360
+BENIGN,1,258312
+DoS Hulk,10,221331
+BENIGN,9,219959
+BENIGN,10,184144
+BENIGN,11,165393
+DDoS,4,104162
+BENIGN,12,60151
+PortScan,3,40130
+DDoS,3,23865
+BENIGN,8,17473
+FTP-Patator,9,10532
+DoS GoldenEye,11,10293
+SSH-Patator,2,9798
+DoS Hulk,11,9742
+BENIGN,5,7896
+DoS Slowhttptest,10,5499
+FTP-Patator,10,5344
+DoS slowloris,9,3201
+DoS slowloris,10,2590
+SSH-Patator,3,1996
+PortScan,1,370
+Infiltration,2,18
+Infiltration,3,18
+Heartbleed,3,11
+DoS slowloris,2,5
